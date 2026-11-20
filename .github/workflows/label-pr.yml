@@ -22,7 +22,7 @@ jobs:
     steps:
       # Checks out the base branch, never PR code, so pull_request_target stays safe.
       - name: Checkout
-        uses: actions/checkout@v6
+        uses: actions/checkout@v7
 
       - name: Label PR
         uses: ./
