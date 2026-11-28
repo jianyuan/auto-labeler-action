@@ -1,6 +1,6 @@
 {
   "name": "Conventional PR Labeler",
-  "image": "mcr.microsoft.com/devcontainers/javascript-node:20",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:26",
   "postCreateCommand": "npm install",
   "customizations": {
     "codespaces": {
